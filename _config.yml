@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Taylor Wright
-tagline:          'Taylor Wright'
-description:      'Economics PhD candidate at the University of Ottawa. I research political economy, public economics, and law and economics.'
-url:              https://taylorjwright.github.io
+title:            潘颖豪 (Yinghao Pan)
+tagline:          '潘颖豪 (Yinghao Pan)'
+description:      'PhD candidate at the National University of Singapore. I research political economy, public economics, and law and economics.'
+url:              https://ian-pan.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,9 +14,9 @@ baseurl:          #'/blog'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:          Taylor Wright
-name:           'Taylor Wright'
-email:          taylorjohn.wright@gmail.com
+author:          Yinghao Pan
+name:           'Yinghao Pan'
+email:          panyinghao@u.nus.edu
 
 
 paginate:         5
