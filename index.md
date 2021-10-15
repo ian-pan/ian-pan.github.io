@@ -18,7 +18,8 @@ I am on the 2021-2022 academic job market and available for virtual interviews.
 
 
 ### Recent Research Highlights
-[![]\assets\1.png "Sunshine"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686)
+
+[![](\assets\1.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686)
 <figure>
 	<img src="\assets\2.png" width="50%"/><img src="\assets\3.png" width="50%"/>
 </figure>
