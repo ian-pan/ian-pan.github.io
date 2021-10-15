@@ -18,7 +18,7 @@ author:          Yinghao Pan
 name:           'Yinghao Pan'
 email:           <a href="mailto:panyinghao@u.nus.edu" title="panyinghao@u.nus.edu">panyinghao@u.nus.edu</a>
 
-paginate:         4
+paginate:         5
 paginate_path:    #'/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 google_analytics:   G-QNGBJ14GNY
