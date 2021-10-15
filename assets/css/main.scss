@@ -3,7 +3,6 @@
 ---
 
 $sidebar-bg-color: #707070;
-$link-color: #f8dc0b;
-$sidebar-sticky: #fba827;
-$border-color: #fba827;
+$link-color: #f8dc0b !default;
+$sidebar-sticky: #fba827 !default;
 @import "hydeout";
