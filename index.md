@@ -4,8 +4,14 @@ title: Home
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-###Bio
-I'm a PhD candidate from the Department of Real Estate at the University of Singapore. I am an applied microeconomist and my research interests are public economics, household finance and law and economics. 
+Yinghao Pan (潘颖豪)
+PhD Candidate 
+[Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en)  
 
-I'm on the 2021-2022 job market and am available for virtual interviews.
+### Course Developer
+Spring 2020 — ECE246 Health Economics, Royal Military College of Canada  
+(joint with [Fabien Forge](https://forgef.github.io/index.html))
+
+### Research Interests
+
 
