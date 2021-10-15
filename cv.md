@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 sidebar_link: true
 sidebar_sort_order: 4
