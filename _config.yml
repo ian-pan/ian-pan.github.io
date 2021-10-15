@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Yinghao Pan
-tagline:          '潘颖豪'
+title:            潘颖豪
+tagline:          'Yinghao Pan'
 description:      'Ph.D. candidate </br> Business School </br> National University of Singapore'
 url:              https://ian-pan.github.io
 baseurl:          #'/blog'
