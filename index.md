@@ -6,7 +6,7 @@ sidebar_sort_order: 1
 ---
  
 
-<center> ## Yinghao Pan (潘颖豪) </center>
+## <center> Yinghao Pan (潘颖豪) </center>
 
 ### Bio
 I am a fifth-year Ph.D. candidate from the Department of Real Estate at the National University of Singapore. My research fields include public economics, household finance and Chinese economy.
