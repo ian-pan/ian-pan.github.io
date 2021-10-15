@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 
 sidebar_link: true
 sidebar_sort_order: 1
 ---
