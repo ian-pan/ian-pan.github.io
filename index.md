@@ -13,7 +13,7 @@ Business School
 
 National University of Singapore
 
-[Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en)  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716) 
+[Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en)    [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716) 
 
 
 

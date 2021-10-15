@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Yinghao Pan
+title:            潘颖豪
 tagline:          'Yinghao Pan'
-description:      'PhD candidate </br> Business School </br> National University of Singapore'
+description:      'Ph.D. candidate </br> Business School </br> National University of Singapore'
 url:              https://ian-pan.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
@@ -14,8 +14,8 @@ baseurl:          #'/blog'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:          潘颖豪
-name:           '潘颖豪'
+author:          Yinghao Pan
+name:           'Yinghao Pan'
 email:           <a href="mailto:panyinghao@u.nus.edu" title="panyinghao@u.nus.edu">panyinghao@u.nus.edu</a>
 
 paginate:         4
