@@ -18,6 +18,7 @@ National University of Singapore
 
 ### Education
 Ph.D. in Real Estate, National University of Singapore, 2022
+
 B.A. in Management & B.A. in Economics (Double Degree), Renmin University of China, 2017
 
 ### Research Interests
