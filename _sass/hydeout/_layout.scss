@@ -90,7 +90,7 @@ img{
   a {
     color: $gray-6;
     border-bottom: .1em solid #EF8354;
-    // background-color: ligthen(#EF8354, 50%);
+    // background-color: ligthen(#0d6efd, 50%);
 
     &:hover {
       filter: brightness(150%);
@@ -272,7 +272,7 @@ img{
 
   &.active {
     // font-weight: bold;
-    color: #EF8354;
+    color: #0d6efd;
   }
 }
 
