@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yinghao Pan
 tagline:          '潘颖豪'
-description:      'Ph.D. Candidate </br> Department of Real Estate </br> Business School </br> National University of Singapore'
+description:      'Ph.D. Candidate </br> National University of Singapore'
 url:              https://ian-pan.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
