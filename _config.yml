@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            潘颖豪 (Yinghao Pan)
-tagline:          '潘颖豪' '(Yinghao Pan)'
-description:      'PhD candidate at the National University of Singapore. I research political economy, public economics, and law and economics.'
+tagline:          'Yinghao Pan'
+description:      'PhD candidate at the National University of Singapore.'
 url:              https://ian-pan.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
