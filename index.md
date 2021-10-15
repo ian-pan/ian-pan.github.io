@@ -5,6 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
  
+
 Yinghao Pan (潘颖豪)
 
 Ph.D. Candidate
@@ -17,9 +18,11 @@ National University of Singapore
 
 
 ### Education
+
 Ph.D. in Real Estate, National University of Singapore, 2022
 
 B.A. in Management & B.A. in Economics (Double Degree), Renmin University of China, 2017
 
 ### Research Interests
+
 Public Economics; Household Finance; Chinese Economy
