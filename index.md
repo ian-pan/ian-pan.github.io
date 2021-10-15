@@ -4,12 +4,11 @@ title: About
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-<pre>
-Yinghao Pan (潘颖豪)
-PhD Candidate
-Business School
-National University of Singapore
-</pre>
+
+Yinghao Pan (潘颖豪)</p>
+PhD Candidate</p>
+Business School</p>
+National University of Singapore</p>
 [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en)  
 
 ### Course Developer
