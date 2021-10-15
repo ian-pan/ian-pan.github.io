@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Yinghao Pan
-tagline:          '潘颖豪'
+tagline:          'Yinghao Pan'
 description:      'PhD candidate </br> Business School </br> National University of Singapore'
 url:              https://ian-pan.github.io
 baseurl:          #'/blog'
@@ -15,7 +15,7 @@ baseurl:          #'/blog'
                   # sidebar_blog_link below.
 
 author:          潘颖豪
-name:           'Yinghao Pan'
+name:           '潘颖豪'
 email:           <a href="mailto:panyinghao@u.nus.edu" title="panyinghao@u.nus.edu">panyinghao@u.nus.edu</a>
 
 paginate:         4
