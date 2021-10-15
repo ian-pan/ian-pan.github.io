@@ -16,7 +16,7 @@ baseurl:          #'/blog'
 
 author:          Yinghao Pan
 name:           'Yinghao Pan'
-email:          panyinghao@u.nus.edu
+email:          [*panyinghao@u.nus.edu*](mailto:panyinghao@u.nus.edu)
 
 
 paginate:         5
