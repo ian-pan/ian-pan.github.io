@@ -9,7 +9,7 @@ sidebar_sort_order: 1
 ## <center> Yinghao Pan (潘颖豪) </center>
 
 ### Bio
-I am a fifth-year Ph.D. candidate from the Department of Real Estate at the National University of Singapore. My research fields include public economics, household finance and Chinese economy.
+I am a fifth-year Ph.D. candidate from the Business School at the National University of Singapore. My research fields include public economics, household finance and Chinese economy.
 
 I am on the 2021-2022 academic job market and available for virtual interviews.
 
@@ -18,7 +18,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.
 
 ### Education
 
-Ph.D. in Real Estate, National University of Singapore, 2022
+Ph.D., National University of Singapore, 2022
 
 B.A. in Economics (Double Degree), Renmin University of China, 2017
 
