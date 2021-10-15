@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
-Yinghao Pan (潘颖豪)
+Yinghao Pan (潘颖豪) \n
 PhD Candidate
 Business School
 National University of Singapore
