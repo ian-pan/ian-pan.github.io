@@ -15,7 +15,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 
 <br>
 
-[CV](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp;  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716) &nbsp;&nbsp;&nbsp;&nbsp;  [ORCID](https://orcid.org/0000-0002-4363-9619) 
+[CV](https://yinghaopan.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp;  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716) &nbsp;&nbsp;&nbsp;&nbsp;  [ORCID](https://orcid.org/0000-0002-4363-9619) 
 
 
 <br>
