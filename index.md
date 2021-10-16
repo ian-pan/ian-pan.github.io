@@ -23,7 +23,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 
 ### Research Highlights
 
-<h2 class="wsite-content-title" style="text-align:center;"><font color="#ddd4bc" size="4">The Sunshine Effects on Solar Loan Repayments</font></h2>
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#f8dc0b" size="4">The Sunshine Effects on Solar Loan Repayments</font></h2>
 
-[![沙漠中的岩石图片](/assets/1.png "Shiprock")](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686)
+[![](/assets/1.png "The Sunshine Effects on Solar Loan Repayments")](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686)
 
