@@ -19,7 +19,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.
 
 ### Recent Research Highlights
 
-[![](\assets\1.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686)
+[![Sunshine Affects Solar Loan Repayments](\assets\1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/50)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686)
 <figure>
 	<img src="\assets\2.png" width="50%"/><img src="\assets\3.png" width="50%"/>
 </figure>
