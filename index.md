@@ -32,7 +32,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 	<table class="wsite-multicol-table">
 		<tbody class="wsite-multicol-tbody">
 			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:49.052631578947%; padding:0 15px;">
+				<td class="wsite-multicol-col" style="width:60%; padding:0 15px;">
 					
 						
 
@@ -40,7 +40,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='https://www.dropbox.com/s/alsvgpyomghnh3w/QJE_TFP.pdf?dl=0' target='_blank'>
-<img src="/assets/1/png" alt="Picture" style="width:auto;max-width:100%" />
+<img src="/assets/1.png" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -62,11 +62,9 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 
 <div class="paragraph" style="text-align:left;">Exploiting China's winter heating policy, our paper shows that sustained exposure to air pollution shortened the life expectancy of northern Chinese people.</div>
 
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:50.947368421053%; padding:0 15px;">
-					
-						
+</td>				
+<td class="wsite-multicol-col" style="width:60%; padding:0 15px;">
+									
 
 <h2 class="wsite-content-title" style="text-align:center;"><font color="#a82e2e" size="4">Use Technology to Address the P-A Problem</font></h2>
 
@@ -99,28 +97,3 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 				</td>			</tr>
 		</tbody>
 	</table>
-</div></div></div>
-
-<div class="wsite-spacer" style="height:23px;"></div>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:33.333333333333%; padding:0 15px;">
-					
-						
-
-<div style="text-align:center;"><div style="height: 10px; overflow: hidden;"></div>
-<a class="wsite-button wsite-button-large wsite-button-highlight" href="https://scholar.google.com/citations?hl=en&user=p6M1ecUAAAAJ&view_op=list_works" target="_blank">
-<span class="wsite-button-inner">Citations</span>
-</a>
-<div style="height: 10px; overflow: hidden;"></div></div>
-
-
-					
-				</td>	
