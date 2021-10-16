@@ -18,7 +18,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 [CV](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp;  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716) &nbsp;&nbsp;&nbsp;&nbsp;  [ORCID](https://orcid.org/0000-0002-4363-9619) 
 
 
-<br><br>
+<br>
 
 
 ### Research Highlights
@@ -69,7 +69,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 <h2 class="wsite-content-title" style="text-align:center;"><font color="#a82e2e" size="4">Use Technology to Address the P-A Problem</font></h2>
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
-<a href='https://www.nber.org/papers/w27502' target='_blank'>
+<a href='/assets/1.png' target='_blank'>
 <img src="/uploads/1/1/7/9/117970477/published/city-estimates.png?1620648996" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%"></div>
