@@ -8,6 +8,7 @@ sidebar_sort_order: 2
 
 
 ### Working Papers
+
 **One-Child Policy, Marriage Distortion, and Welfare Loss** (with [Wei Huang](https://sites.google.com/view/huangweipku/home) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), revision requested at *Review of Economics and Statistics*.
 
 **Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen), revision requested at *Regional Science and Urban Economics*.
@@ -30,3 +31,6 @@ sidebar_sort_order: 2
 
 
 ### Pre-doctoral Publications
+**Are Cities Losing Their Vitality? Exploring Human Capital in Chinese Cities**, *Habitat International* 96 (2020): 102104.
+**Human Capital, Housing Prices, and Regional Economic Development: Will “Vying for Talent” through Policy Succeed?**, *Cities* 98 (2020): 102577.
+**Human Capital and International Capital Flows: Evidence from China**, *International Regional Science Review* (2021): 0160017621989421.
