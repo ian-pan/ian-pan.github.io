@@ -26,7 +26,7 @@ sidebar_sort_order: 2
 [**Monetary Restraint and Excess Sensitivity of Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715597) (with [Ying Fan](https://sites.google.com/view/yingfan)), under review. 
 
 
-### Works in Progress
+### Work in Progress
 **Human Capital Density, Wage Increase, and Consumption Upgrade: Evidence from College Expansion in China** (with [Binkai Chen](http://econ.cufe.edu.cn/info/1032/3423.htm), [Wei Huang](https://sites.google.com/view/huangweipku/home), Yankun Kang, and Qi Luo).
 
 
