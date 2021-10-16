@@ -70,7 +70,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a href='/assets/1.png' target='_blank'>
-<img src="/uploads/1/1/7/9/117970477/published/city-estimates.png?1620648996" alt="Picture" style="width:auto;max-width:100%" />
+<img src="/assets/1.png" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
