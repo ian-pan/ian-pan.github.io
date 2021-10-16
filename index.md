@@ -22,6 +22,14 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 ### Research Highlights
 
 
+<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<hr class="styled-hr" style="width:100%;"></hr>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#a82e2e">Research Highlights</font></h2>
+
+<div class="wsite-spacer" style="height:10px;"></div>
+
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 	<table class="wsite-multicol-table">
 		<tbody class="wsite-multicol-tbody">
