@@ -35,13 +35,13 @@ RE2102  Real Estate Economics (Fall 2017)
 >He experimented in different styles of teaching across tutorials and found a more effective learning framework by allowing students to work on the tutorial simultaneously as he walked around the class to provide help 1–to–1.
 
 <details>
-<summary>AGGREGATED TEXT ANALYTICS REPORT (2018/2019)</summary>
+<summary>Aggregated Text Analytics Report (2018/2019)</summary>
 <img src="/assets/1819.bmp" />
 </details>
 
 
 <details>
-<summary>AGGREGATED TEXT ANALYTICS REPORT (2019/2020)</summary>
+<summary>Aggregated Text Analytics Report (2019/2020)</summary>
 <img src="/assets/1920.bmp" />
 
 </details>
