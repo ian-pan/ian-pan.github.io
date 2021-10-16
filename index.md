@@ -19,7 +19,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.
 
 ### Recent Research Highlights
 
-<div>
+<div style="position:relative">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="\assets\1.png" width="50%"> <span style="position:absolute;top:0;left:0;">Sunshine duration negatively affects solar loan delinquency.</span>
 </div>
 
