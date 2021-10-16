@@ -19,5 +19,4 @@ I am on the 2021-2022 academic job market and available for virtual interviews.
 
 ### Recent Research Highlights
 
-[![Sunshine duration negatively affects solar loan delinquency.](\assets\1.png){:height="36px" width="36px"}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686) 
-[![##Teachers with management responsibilities helps to improve student cognitive and non-cognitive abilities.](\assets\2.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) [![Teachers with management responsibilities helps to improve student cognitive and non-cognitive abilities.](\assets\2.png)]
+[![Sunshine duration negatively affects solar loan delinquency.](\assets\1.png){: width="50%"}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686) [![Teachers with management responsibilities helps to improve student test scores, cognitive and non-cognitive abilities.](\assets\2.png){: width="50%"}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) [![.](\assets\3.png){: width="50%"}]
