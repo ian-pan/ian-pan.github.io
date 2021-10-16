@@ -25,7 +25,7 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Sunshine Effects on Solar Loan Repayments</font></h2>
 <center class="half">
-	 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="/assets/1.png" width="50%"/></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="/assets/1.png" width="50%"/></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="/assets/1.png" width="50%"/></a>
+	 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="/assets/1.png" width="40%"/></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="/assets/1.png" width="540%"/></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="/assets/1.png" width="40%"/></a>
 </center>
 
 
