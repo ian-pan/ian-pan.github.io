@@ -19,9 +19,14 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 
 
 
-### Recent Research Highlights
+### Research Highlights
 
-				
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:35%; padding:0 15px;">				
 						
 
 <h2 class="wsite-content-title" style="text-align:center;"><font color="#8d2424" size="4">Cost of Water Pollution Regulation</font></h2>
@@ -36,4 +41,18 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 <div class="paragraph" style="text-align:left;">Sunshine duration negatively affects solar loan delinquency.</div>
 
 
+<td class="wsite-multicol-col" style="width:35%; padding:0 15px;">
+					
 
+<h2 class="wsite-content-title" style="text-align:center;"><font color="#a82e2e" size="4">Use Technology to Address the P-A Problem</font></h2>
+
+<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
+<a href='https://www.nber.org/papers/w27502' target='_blank'>
+<img src="/uploads/1/1/7/9/117970477/published/city-estimates.png?1620648996" alt="Picture" style="width:auto;max-width:100%" />
+</a>
+<div style="display:block;font-size:90%"></div>
+</div></div>
+
+<div class="paragraph">This paper shows that&nbsp;China's automated air quality monitoring system improves the data reliablity, which helps individuals to better protect themselves against pollution.&nbsp;&nbsp;</div>
+
+</td>
