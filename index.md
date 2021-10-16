@@ -27,6 +27,4 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 <center class="half">
 	 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686"><img src="/assets/1.png" width:100%/></a>  
 </center>
-
-
 <font color="#ddd4bc" > We show that solar loan borrowers are 20.8 percent less likely to be delinquent if the sunshine duration is one standard deviation longer in the week of repayment deadline. </font>
