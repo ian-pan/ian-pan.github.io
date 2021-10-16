@@ -34,4 +34,12 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 <center class="half">
 	 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728"><img src="/assets/3.png" style='float: left;width:50%'/></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728"><img src="/assets/4.png" style='float: left;width:50%'/></a>  
 </center>
+<font color="#707070"  size="3" style="line-height:0%;"> Having a more experienced or female homeroom teacher(HRT) with additional classroom management duties significantly improves students' test scores and cognitive and noncognitive abilities. Our findings highlight the importance of teacher management skills in education production.</font>
+
+
+<h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Value of Homeroom Teachers</font></h2>
+<center class="half">
+	 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728"><img src="/assets/3.png" style='float: left;width:50%'/></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728"><img src="/assets/4.png" style='float: left;width:50%'/></a>  
+</center>
 <font color="#707070"  size="3" style="line-height:0%;"> Having a more experienced or female homeroom teacher with additional classroom management duties significantly improves students' test scores and cognitive and noncognitive abilities. Our findings highlight the importance of teacher management skills in education production.</font>
+
