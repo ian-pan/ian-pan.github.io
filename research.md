@@ -15,7 +15,7 @@ sidebar_sort_order: 2
 
 **Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), revision requested at *International Regional Science Review*.
 
-**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China** (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), under review. 
+[**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), under review. 
 
 **How Do Households Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Mi Luo](https://sites.google.com/view/mi-luo), and [Hong Song](https://songhong2016.weebly.com/)), under review.
 
