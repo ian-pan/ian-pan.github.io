@@ -16,7 +16,7 @@ RE2801  Research Methodology in Real Estate (Spring 2019, 2020)
 
 ### Teaching Assistant
 
-BSE3703 Econometrics for BusinessⅠ(Spring 2019, 2020)
+BSE3703 Econometrics for Business Ⅰ (Spring 2019, 2020)
 
 RE6005  Real Estate Economics Seminar (Fall 2019)
 
