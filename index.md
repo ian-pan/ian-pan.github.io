@@ -4,9 +4,7 @@ title: Home
 sidebar_link: true
 sidebar_sort_order: 1
 ---
-   <head>
-    <meta name="baidu-site-verification" content="code-7MOMoWqbbY" />
-  </head>
+
 
 ## <center> Yinghao Pan (潘颖豪) </center>
 
