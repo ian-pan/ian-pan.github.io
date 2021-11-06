@@ -9,7 +9,7 @@ sidebar_sort_order: 1
 ## <center> Yinghao Pan (潘颖豪) </center>
 
 ### Bio
-<font size="4">I am a fifth-year Ph.D. candidate from the Business School at the National University of Singapore. My research fields include public economics, household finance and Chinese economy. Prior to the graduate school, I obtained bachelor&rsquo;s degree in management and double degree in economics from Renmin University of China.<br>
+<font size="4">I am a Ph.D. job market candidate from the Business School at the National University of Singapore. My research fields include public economics, household finance and Chinese economy. Prior to the graduate school, I obtained bachelor&rsquo;s degree in management and double degree in economics from Renmin University of China.<br>
 	<br>
 I am on the 2021-2022 academic job market and available for virtual interviews.</font>
 
