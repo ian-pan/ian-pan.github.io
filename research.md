@@ -13,7 +13,7 @@ sidebar_sort_order: 2
 
 **Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen), revision requested at *Regional Science and Urban Economics*.
 
-**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), revision requested at *International Regional Science Review*.
+**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), accepted at *International Regional Science Review*.
 
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), under review. 
 
