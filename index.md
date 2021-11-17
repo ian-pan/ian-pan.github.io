@@ -41,5 +41,5 @@ I am on the 2021-2022 academic job market and available for virtual interviews.<
 <center class="half">
 	 <a href=""><img src="/assets/5.png" style='float: left;width:50%'/></a> <a href=""><img src="/assets/6.png" style='float: left;width:50%'/></a>  
 </center>
-<font color="#707070"  size="3" style="line-height:0;"> Exploring the prefectural policies that permanently and temporarily increase pension income in urban China, the event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.96 for permanent income but 0.05 to 0.12 for transitory income.</font>
+<font color="#707070"  size="3" style="line-height:0;"> Exploring the prefectural policies that permanently and temporarily increase pension income in urban China, the event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income.</font>
 
