@@ -15,7 +15,6 @@ sidebar_sort_order: 2
 
 **Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen), revision requested at *Regional Science and Urban Economics*.
 
-**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), accepted at *International Regional Science Review*.
 
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://sites.google.com/view/huangweipku/home), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), under review. 
 
@@ -32,9 +31,12 @@ sidebar_sort_order: 2
 **Human Capital Density, Wage Increase, and Consumption Upgrade: Evidence from College Expansion in China** (with [Binkai Chen](http://econ.cufe.edu.cn/info/1032/3423.htm), [Wei Huang](https://sites.google.com/view/huangweipku/home), Yankun Kang, and Qi Luo).
 
 
-### Pre-doctoral Publications
+### Publications
+**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), accepted at *International Regional Science Review*.
+
+**Human Capital and International Capital Flows: Evidence from China**, *International Regional Science Review* (2021): 0160017621989421.
+
 **Are Cities Losing Their Vitality? Exploring Human Capital in Chinese Cities**, *Habitat International* 96 (2020): 102104.
 
 **Human Capital, Housing Prices, and Regional Economic Development: Will “Vying for Talent” through Policy Succeed?**, *Cities* 98 (2020): 102577.
 
-**Human Capital and International Capital Flows: Evidence from China**, *International Regional Science Review* (2021): 0160017621989421.
