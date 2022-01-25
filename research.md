@@ -7,6 +7,17 @@ sidebar_sort_order: 2
 ---
 
 
+### Publications
+
+**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), accepted at *International Regional Science Review*.
+
+**Human Capital and International Capital Flows: Evidence from China**, *International Regional Science Review* (2021): 0160017621989421.
+
+**Are Cities Losing Their Vitality? Exploring Human Capital in Chinese Cities**, *Habitat International* 96 (2020): 102104.
+
+**Human Capital, Housing Prices, and Regional Economic Development: Will “Vying for Talent” through Policy Succeed?**, *Cities* 98 (2020): 102577.
+
+
 ### Working Papers
 
 **One-Child Policy, Marriage Distortion, and Welfare Loss** (with [Wei Huang](https://sites.google.com/view/huangweipku/home) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), revision requested at *Review of Economics and Statistics*.
@@ -29,14 +40,4 @@ sidebar_sort_order: 2
 
 ### Work in Progress
 **Human Capital Density, Wage Increase, and Consumption Upgrade: Evidence from College Expansion in China** (with [Binkai Chen](http://econ.cufe.edu.cn/info/1032/3423.htm), [Wei Huang](https://sites.google.com/view/huangweipku/home), Yankun Kang, and Qi Luo).
-
-
-### Publications
-**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), accepted at *International Regional Science Review*.
-
-**Human Capital and International Capital Flows: Evidence from China**, *International Regional Science Review* (2021): 0160017621989421.
-
-**Are Cities Losing Their Vitality? Exploring Human Capital in Chinese Cities**, *Habitat International* 96 (2020): 102104.
-
-**Human Capital, Housing Prices, and Regional Economic Development: Will “Vying for Talent” through Policy Succeed?**, *Cities* 98 (2020): 102577.
 
