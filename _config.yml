@@ -16,7 +16,7 @@ baseurl:          #'/blog'
 
 author:          Yinghao Pan
 name:           'Yinghao Pan'
-email:           <a href="mailto:panyinghao@u.nus.edu" title="panyinghao@u.nus.edu">panyinghao@u.nus.edu</a><br><a href="mailto:mail@yinghaopan.com" title="mail@yinghaopan.com">mail@yinghaopan.com</a></br>
+email:           <a href="mailto:mail@yinghaopan.com" title="mail@yinghaopan.com">mail@yinghaopan.com</a></br>
 
 paginate:         5
 paginate_path:    #'/page:num'
