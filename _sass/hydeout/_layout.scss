@@ -43,7 +43,7 @@ img{
 .thumbnail {
     border-width: 3px;
     border-style: solid;
-    border-color: #ddd4bc;
+    border-color: #dee8ec;
     border-radius: 50%;
     display: block;
     margin-left: auto;
@@ -89,8 +89,8 @@ img{
 
   a {
     color: $gray-6;
-    border-bottom: .1em solid #dee8ec;
-    // background-color: ligthen(#dee8ec, 50%);
+    border-bottom: .1em solid #00a4ff;
+    // background-color: ligthen(#00a4ff, 50%);
 
     &:hover {
       filter: brightness(150%);
@@ -272,7 +272,7 @@ img{
 
   &.active {
     // font-weight: bold;
-    color: #dee8ec;
+    color: #00a4ff;
   }
 }
 
