@@ -20,7 +20,7 @@ sidebar_sort_order: 1
 <br>
 
 
-### <font color=#11406C>Recent Projects</font>
+### Recent Projects
 
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Sunshine Effects on Solar Loan Repayments</font></h2>
