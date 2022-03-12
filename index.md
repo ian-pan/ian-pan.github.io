@@ -20,7 +20,7 @@ sidebar_sort_order: 1
 <br>
 
 
-### Research Highlights
+### Recent Projects
 
 <h2 class="wsite-content-title" style="text-align:center;"><font  size="4">The Sunshine Effects on Solar Loan Repayments</font></h2>
 <center class="half">
@@ -42,3 +42,7 @@ sidebar_sort_order: 1
 </center>
 <font color="#707070"  size="3" style="line-height:0;"> Exploring the prefectural policies that permanently and temporarily increase pension income in urban China, the event study yields an estimate of marginal propensity to consume (MPC) being 0.64 to 0.78 for permanent income but 0.05 to 0.12 for transitory income.</font>
 
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>© Copyright Yinghao Pan. All rights reserved. </span>
