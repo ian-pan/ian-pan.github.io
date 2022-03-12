@@ -9,7 +9,7 @@ sidebar_sort_order: 1
 ## <center> Yinghao Pan (潘颖豪) </center>
 
 <br>
-<br>
+
 <font size="4"> My research fields include public economics, household finance and Chinese economy. I obtained bachelor&rsquo;s degree in management and double degree in economics from Renmin University of China, and Ph.D. degree from the Business School at the National University of Singapore.<br>
 </font>
 
