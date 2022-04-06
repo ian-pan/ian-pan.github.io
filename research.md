@@ -7,10 +7,6 @@ sidebar_sort_order: 2
 ---
 
 
-### Publications
-
-**Impacts of Housing Booms on Fertility in China: A Perspective from Homeownership** (with [Hao Yang](http://bs.scu.edu.cn/kuaijixue/202103/6999.html)), accepted at *International Regional Science Review*.
-
 
 ### Working Papers
 
