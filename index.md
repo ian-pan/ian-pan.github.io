@@ -17,7 +17,7 @@ sidebar_sort_order: 1
 
 [CV](https://yinghaopan.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp;  [SSRN]() &nbsp;&nbsp;&nbsp;&nbsp;  [ORCID](https://orcid.org/0000-0002-4363-9619) 
 
-<span id="badgeCont602"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont602&rid=AAM-8200-2021&size=small"></script></span> <a href="https://orcid.org/0000-0002-4363-9619"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" style='float: left'/></a> <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716"><img alt="SSRN logo" src="https://user-images.githubusercontent.com/5304060/27064732-77176da8-4fbe-11e7-8c9b-02da0c6be16c.jpg" width="16" height="16" style='float: left'/></a>
+<span id="badgeCont602"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont602&rid=AAM-8200-2021&size=small"  style='float: left'></script></span> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://orcid.org/0000-0002-4363-9619"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" style='float: left'/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716"><img alt="SSRN logo" src="https://user-images.githubusercontent.com/5304060/27064732-77176da8-4fbe-11e7-8c9b-02da0c6be16c.jpg" width="16" height="16" style='float: left'/></a>
 
 <br>
 
