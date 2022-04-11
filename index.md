@@ -17,6 +17,7 @@ sidebar_sort_order: 1
 
 [CV](https://yinghaopan.com/cv/) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp;  [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716) &nbsp;&nbsp;&nbsp;&nbsp;  [ORCID](https://orcid.org/0000-0002-4363-9619) 
 
+<span id="badgeCont602"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont602&rid=AAM-8200-2021&size=small"></script></span>
 
 <br>
 
