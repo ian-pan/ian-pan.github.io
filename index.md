@@ -10,7 +10,7 @@ sidebar_sort_order: 1
 
 <br>
 
-<font size="4"> My research fields include public economics, urban economics and development economics. I obtained bachelor&rsquo;s degree in management and double degree in economics from Renmin University of China, and Ph.D. degree from the Business School at the National University of Singapore.<br><br>
+<font size="4"> I am an assistant professor at the National Academy of Development and Strategy, Renmin University of China (RUC). My research fields include public economics, urban economics and development economics. I obtained bachelor&rsquo;s degree in management and double degree in economics from Renmin University of China, and Ph.D. degree from the Business School at the National University of Singapore.<br><br>
 </font>
  <a href="https://scholar.google.com/citations?user=d8OG-4UAAAAJ&hl=en"><img alt="Scholar" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width="20" height="20" style='float: left'/><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2959716"><img alt="SSRN" src="https://user-images.githubusercontent.com/5304060/27064732-77176da8-4fbe-11e7-8c9b-02da0c6be16c.jpg" width="20" height="20" style='float: left'/></a> <a href="https://orcid.org/0000-0002-4363-9619"><img alt="ORCID" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="20" height="20" style='float: left'/></a>  
 
