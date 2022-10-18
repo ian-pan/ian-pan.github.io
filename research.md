@@ -14,9 +14,9 @@ sidebar_sort_order: 2
 
 **One-Child Policy, Marriage Distortion, and Welfare Loss** (with [Wei Huang](https://huangweipku.com/) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), revision requested at *Review of Economics and Statistics*.
 
-**Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen), revision requested at *Regional Science and Urban Economics*.
-
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), under review. 
+
+**Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen).
 
 **How Do Households Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Wei Huang](https://huangweipku.com/), [Mi Luo](https://sites.google.com/view/mi-luo), and [Hong Song](https://songhong2016.weebly.com/)), under review.
 
