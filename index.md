@@ -5,12 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
--webkit-filter: grayscale(100%);
--moz-filter: grayscale(100%);
--ms-filter: grayscale(100%);
--o-filter: grayscale(100%);
-filter: grayscale(100%);
-filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+
 ## <center> Yinghao Pan (潘颖豪) </center>
 
 <br>
