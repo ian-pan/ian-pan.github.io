@@ -8,7 +8,7 @@ sidebar_sort_order: 2
 
 ### Publications 
 
-[**Acquiring Land in Cold Winter: Consequences and Possible Explanations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Yu Qin](https://qinyurain.weebly.com/), [Fan Zhang](http://insurance.uibe.edu.cn/szdw/szdw.html?parm2=jsjs.aspx?NewsID=101&a=1&TeacherType=1), and [Hongjia Zhu](https://iesr.jnu.edu.cn/2019/0821/c17702a404499/page.htm)), accepted at *Journal of Environmental Economics and Management*.
+[**Acquiring Land in Cold Winter: Consequences and Possible Explanations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Yu Qin](https://qinyurain.weebly.com/), [Fan Zhang](http://insurance.uibe.edu.cn/szdw/szdw.html?parm2=jsjs.aspx?NewsID=101&a=1&TeacherType=1), and [Hongjia Zhu](https://iesr.jnu.edu.cn/2019/0821/c17702a404499/page.htm)), 2022, *Journal of Environmental Economics and Management*.
 
 ### Working Papers
 
