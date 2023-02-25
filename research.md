@@ -16,13 +16,17 @@ sidebar_sort_order: 2
 
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), revision requested at *Journal of Economic Behavior and Organization*. 
 
+
+**Uncovering the Hidden Cost of Prenatal Heat Stress Exposure: 
+Evidence from Subjective Well-being in China** (with Jiaowei Gong, Xiaoyu Li, and Yang Zhang).
+
 **Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen).
 
-**How Do Households Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Wei Huang](https://huangweipku.com/), [Mi Luo](https://sites.google.com/view/mi-luo), and [Hong Song](https://songhong2016.weebly.com/)), under review.
+**How Do Households Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Wei Huang](https://huangweipku.com/), [Mi Luo](https://sites.google.com/view/mi-luo), and [Hong Song](https://songhong2016.weebly.com/)).
 
 
-[**The Sunshine Effects on Solar Loan Repayments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686) (with [Yu Qin](https://qinyurain.weebly.com/)), under review.
+[**The Sunshine Effects on Solar Loan Repayments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939686) (with [Yu Qin](https://qinyurain.weebly.com/)).
 
-[**Monetary Restraint and Excess Sensitivity of Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715597) (with [Ying Fan](https://sites.google.com/view/yingfan)), under review. 
+[**Monetary Restraint and Excess Sensitivity of Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715597) (with [Ying Fan](https://sites.google.com/view/yingfan)). 
 
 
