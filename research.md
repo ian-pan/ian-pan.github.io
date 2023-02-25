@@ -14,7 +14,7 @@ sidebar_sort_order: 2
 
 **One-Child Policy, Marriage Distortion, and Welfare Loss** (with [Wei Huang](https://huangweipku.com/) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), revision requested at *Review of Economics and Statistics*.
 
-[**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), under review. 
+[**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803728) (with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), revision requested at *Journal of Economic Behavior and Organization*. 
 
 **Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen).
 
