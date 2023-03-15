@@ -17,7 +17,7 @@ sidebar_sort_order: 2
 
 **Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing** (with [Li An](https://sites.google.com/site/lianfinancesite/) and [Yu Qin](https://qinyurain.weebly.com/)).
 
-**Uncovering the Hidden Cost of Prenatal Heat Stress Exposure: 
+**The Hidden Cost of Prenatal Heat Stress Exposure: 
 Evidence from Subjective Well-being in China** (with Jiaowei Gong, Xiaoyu Li, and Yang Zhang).
 
 **Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen).
