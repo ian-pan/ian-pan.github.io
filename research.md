@@ -7,7 +7,7 @@ sidebar_sort_order: 2
 ---
 
 ### Publications 
-[**One-Child Policy, Marriage Distortion, and Welfare Loss**](https://doi.org/10.1162/rest_a_01332) (with [Wei Huang](https://huangweipku.com/) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), forthcoming at *Review of Economics and Statistics*.
+[**One-Child Policy, Marriage Distortion, and Welfare Loss**](/papers/OCP.pdf) (with [Wei Huang](https://huangweipku.com/) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), forthcoming at *Review of Economics and Statistics*.
 
 [**Acquiring Land in Cold Winter: Consequences and Possible Explanations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Yu Qin](https://qinyurain.weebly.com/), [Fan Zhang](http://insurance.uibe.edu.cn/szdw/szdw.html?parm2=jsjs.aspx?NewsID=101&a=1&TeacherType=1), and [Hongjia Zhu](https://iesr.jnu.edu.cn/2019/0821/c17702a404499/page.htm)), 2022, *Journal of Environmental Economics and Management*.
 
