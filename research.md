@@ -11,7 +11,7 @@ sidebar_sort_order: 2
 
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**] (with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), forthcoming at *Journal of Economic Behavior and Organization*. 
 
-[**Setting Local Economic Growth Targets: Does it Mitigate Nationwide Policy Uncertainty?**] (with [Hao Yang](https://bs.scu.edu.cn/kuaijixue/202103/6999.html), and Jing Ma), forthcoming at *Regional Studies*. 
+**Setting Local Economic Growth Targets: Does it Mitigate Nationwide Policy Uncertainty?** (with [Hao Yang](https://bs.scu.edu.cn/kuaijixue/202103/6999.html), and Jing Ma), forthcoming at *Regional Studies*. 
 
 [**Acquiring Land in Cold Winter: Consequences and Possible Explanations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Yu Qin](https://qinyurain.weebly.com/), [Fan Zhang](http://insurance.uibe.edu.cn/szdw/szdw.html?parm2=jsjs.aspx?NewsID=101&a=1&TeacherType=1), and [Hongjia Zhu](https://iesr.jnu.edu.cn/2019/0821/c17702a404499/page.htm)), 2022, *Journal of Environmental Economics and Management*.
 
