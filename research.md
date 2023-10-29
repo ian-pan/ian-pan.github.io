@@ -6,7 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-### Publications 
+### Selected Publications 
 [**One-Child Policy, Marriage Distortion, and Welfare Loss**](/papers/OCP.pdf) (with [Wei Huang](https://huangweipku.com/) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), forthcoming at *Review of Economics and Statistics*.
 
 [**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](/papers/HRT.pdf) with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), forthcoming at *Journal of Economic Behavior and Organization*. 
@@ -16,7 +16,6 @@ sidebar_sort_order: 2
 [**Acquiring Land in Cold Winter: Consequences and Possible Explanations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Yu Qin](https://qinyurain.weebly.com/), [Fan Zhang](http://insurance.uibe.edu.cn/szdw/szdw.html?parm2=jsjs.aspx?NewsID=101&a=1&TeacherType=1), and [Hongjia Zhu](https://iesr.jnu.edu.cn/2019/0821/c17702a404499/page.htm)), 2022, *Journal of Environmental Economics and Management*.
 
 ### Working Papers
-
 
 
 **Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing** (with [Li An](https://sites.google.com/site/lianfinancesite/) and [Yu Qin](https://qinyurain.weebly.com/)).
