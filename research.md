@@ -17,25 +17,13 @@ sidebar_sort_order: 2
 
 
 
+
+
+
 ### 中文发表
 **《税收优惠、资本相对价格与劳动收入份额——基于加速折旧政策的准自然实验》**（与蓝嘉俊、康敏森），*《管理科学学报》*，录用待刊。
 
  [**《碳排放总量控制、配置效率与产出收益》**](http://ciejournal.ajcass.org/UploadFile/Issue/201606280001/2023/8//20230808082226WU_FILE_0.pdf)（与杨豪、才国伟），*《中国工业经济》*，2023。
 
-
-### Working Papers
-
-
-**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing** (with [Li An](https://sites.google.com/site/lianfinancesite/) and [Yu Qin](https://qinyurain.weebly.com/)).
-
-**The Hidden Cost of Prenatal Heat Stress Exposure: 
-Evidence from Subjective Well-being in China** (with Jiaowei Gong, Xiaoyu Li, and Yang Zhang).
-
-**Living It Up: Responses of Mortgage Decisions to an Earthquake** (with [Ying Fan](https://sites.google.com/view/yingfan), Mingzhi Mao, and Min Chen).
-
-**How Do Households Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Wei Huang](https://huangweipku.com/), [Mi Luo](https://sites.google.com/view/mi-luo), and [Hong Song](https://songhong2016.weebly.com/)).
-
-
-[**Monetary Restraint and Excess Sensitivity of Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715597) (with [Ying Fan](https://sites.google.com/view/yingfan)). 
 
 
