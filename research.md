@@ -15,6 +15,13 @@ sidebar_sort_order: 2
 
 [**Acquiring Land in Cold Winter: Consequences and Possible Explanations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Yu Qin](https://qinyurain.weebly.com/), [Fan Zhang](http://insurance.uibe.edu.cn/szdw/szdw.html?parm2=jsjs.aspx?NewsID=101&a=1&TeacherType=1), and [Hongjia Zhu](https://iesr.jnu.edu.cn/2019/0821/c17702a404499/page.htm)), 2022, *Journal of Environmental Economics and Management*.
 
+
+
+### 中文发表
+**《税收优惠、资本相对价格与劳动收入份额——基于加速折旧政策的准自然实验》**（与蓝嘉俊、康敏森），**《管理科学学报》**，录用待刊。
+ [**《碳排放总量控制、配置效率与产出收益》**](http://ciejournal.ajcass.org/UploadFile/Issue/201606280001/2023/8//20230808082226WU_FILE_0.pdf)（与杨豪、才国伟），**《中国工业经济》**，2023。
+
+
 ### Working Papers
 
 
