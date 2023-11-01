@@ -9,7 +9,7 @@ sidebar_sort_order: 2
 ### Selected Publications 
 [**One-Child Policy, Marriage Distortion, and Welfare Loss**](/papers/OCP.pdf) (with [Wei Huang](https://huangweipku.com/) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), forthcoming at *Review of Economics and Statistics*.
 
-[**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](/papers/HRT.pdf) with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), forthcoming at *Journal of Economic Behavior and Organization*. 
+[**Teacher Characteristics and Student Performance: Evidence from Random Teacher-Student Assignments in China**](/papers/HRT.pdf) (with [Wei Huang](https://huangweipku.com/), [Teng Li](https://www.teng-li.com/), and Jinyang Ren), forthcoming at *Journal of Economic Behavior and Organization*. 
 
 [**Setting Local Economic Growth Targets: Does it Mitigate Nationwide Policy Uncertainty?**](/papers/EPU.pdf) (with [Hao Yang](https://bs.scu.edu.cn/kuaijixue/202103/6999.html), and Jing Ma), forthcoming at *Regional Studies*. 
 
