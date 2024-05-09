@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Teaching & Services
+title: Teaching
 permalink: /teaching/
 sidebar_link: true
 sidebar_sort_order: 3
 ---
-
-### Renmin University of China 
-## Undergraduate Level
+# Teaching
+## Renmin University of China 
+### Undergraduate Level
 Academic Writing, Spring 2024.
 Econometrics B, Spring 2024.
 Econometrics A, Fall 2023.
 
-## Graduate Level
+### Graduate Level
 Economics of Social Issues, Fall 2024.
+
+
 
 
 
