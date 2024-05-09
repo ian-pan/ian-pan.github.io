@@ -42,7 +42,7 @@ sidebar_sort_order: 2
 **Monetary Restraint and Excess Sensitivity of Consumption** (with [Ying Fan](https://sites.google.com/view/yingfan/home)), under review.
 
  
-[**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China**] (with [Mi Luo](https://sites.google.com/view/mi-luo), [Wei Huang](https://huangweipku.com/), and [Hong Song](https://econ.fudan.edu.cn/info/1028/14229.htm)).
+**How Does Household Consumption Respond to Pension Increases? Evidence from Monthly Panel Data in Urban China** (with [Mi Luo](https://sites.google.com/view/mi-luo), [Wei Huang](https://huangweipku.com/), and [Hong Song](https://econ.fudan.edu.cn/info/1028/14229.htm)).
 
 
 
