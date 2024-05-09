@@ -5,7 +5,7 @@ permalink: /teaching/
 sidebar_link: true
 sidebar_sort_order: 3
 ---
-# Teaching
+
 ## Renmin University of China 
 ### Undergraduate Level
 Academic Writing, Spring 2024.
