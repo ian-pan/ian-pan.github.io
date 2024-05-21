@@ -14,8 +14,6 @@ Econometrics B, Spring 2024. *(School of Finance)*
 
 Econometrics A, Fall 2023. *(School of Economics)*
 
-### Graduate Level
-Economics of Social Issues, Fall 2024. *(School of Smart Governance)*
 
 
 
