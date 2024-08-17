@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yinghao Pan
 tagline:          '潘颖豪'
-description:      'Assistant Professor </br> Renmin University of China'
+description:      'Associate Professor </br> Renmin University of China'
 url:              https://ian-pan.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
