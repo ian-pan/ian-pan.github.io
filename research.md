@@ -22,7 +22,7 @@ sidebar_sort_order: 2
 
 **The hidden cost of prenatal heat stress exposure: Evidence on subjective well-being in China** (with Jiaowei Gong, [Xiaoyu Li](https://www.soc.tsinghua.edu.cn/info/1179/1343.htm) and [Yang Zhang](http://ssps.ruc.edu.cn/jszy/zy/zy_grjj/f30b6c80f4d14453919b2a7ba1fbc034.htm)), revision requested at *Economic Development and Cultural Change*.
 
-**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China*** (with [Fan He](https://ggxy.jxufe.edu.cn/news-show-6108.html), [Wei Huang](https://huangweipku.com/), and Jiao Wang), under review.
+**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China** (with [Fan He](https://ggxy.jxufe.edu.cn/news-show-6108.html), [Wei Huang](https://huangweipku.com/), and Jiao Wang), under review.
 
 
 #### Household Economic Decisions
