@@ -25,7 +25,7 @@ sidebar_sort_order: 2
 **Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China** (with [Fan He](https://ggxy.jxufe.edu.cn/news-show-6108.html), [Wei Huang](https://huangweipku.com/), and Jiao Wang), under review.
 
 
-#### Household Economic Choice Function
+#### Economic Choice Function
 
 [**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Li An](https://sites.google.com/site/lianfinancesite/), and [Yu Qin](http://www.qinyurain.com/)), under review.
 
