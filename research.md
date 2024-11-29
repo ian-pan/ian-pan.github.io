@@ -28,13 +28,12 @@ sidebar_sort_order: 2
 
 #### Economic Choice Function
 
-[**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Li An](https://sites.google.com/site/lianfinancesite/), and [Yu Qin](http://www.qinyurain.com/)), under review.
 
-**Monetary Restraint and Excess Sensitivity of Consumption** (with [Ying Fan](https://sites.google.com/view/yingfan/home)), under review.
+**Monetary Restraint and Excess Sensitivity of Consumption** (with [Ying Fan](https://sites.google.com/view/yingfan/home)), revision requested.
 
  
 **Consumption Responses to Pension Income Adjustments: Evidence from Urban China’s Monthly Panel Data** (with [Mi Luo](https://sites.google.com/view/mi-luo), [Wei Huang](https://huangweipku.com/), and [Hong Song](https://econ.fudan.edu.cn/info/1028/14229.htm)).
 
-
+[**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Li An](https://sites.google.com/site/lianfinancesite/), and [Yu Qin](http://www.qinyurain.com/)), under review.
 
 
