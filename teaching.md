@@ -21,6 +21,8 @@ Econometrics A, Fall 2023. *(School of Economics)*
 
 ### Graduate Level
 
+Applied Microeconometrics, Spring 2025.*(School of Economics)*
+
 Economics of Society, Spring 2025.*(School of Smart Governance)*
 
 Statistics and Econometrics *(in English)*, Fall 2024.*(School of Economics)*
