@@ -11,6 +11,8 @@ sidebar_sort_order: 3
 
 Systems Thinking and Academic Writing, Spring 2025.
 
+Statistics *(in English)*, Spring 2025.*(Business School)*
+
 Academic Writing *(in English)*, Spring 2024.*(Business School)*
 
 Econometrics B. *(School of Finance, Spring 2024/ Spring 2025; School of Economics, Fall 2024)*
