@@ -23,7 +23,7 @@ sidebar_sort_order: 2
 ### Working Papers
 #### Human Capital Production Function
 
-**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China** (with [Fan He](https://ggxy.jxufe.edu.cn/news-show-6108.html), [Wei Huang](https://huangweipku.com/), and Jiao Wang), under review.
+**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China** (with [Fan He](https://ggxy.jxufe.edu.cn/news-show-6108.html), [Wei Huang](https://huangweipku.com/), and Jiao Wang), revision requested at *Review of Economics and Statistics*.
 
 
 #### Economic Choice Function
