@@ -34,6 +34,6 @@ sidebar_sort_order: 2
  
 **Pension Reforms, Income Shocks, and Consumption Dynamics: Evidence from Urban China** (with [Mi Luo](https://sites.google.com/view/mi-luo), [Wei Huang](https://huangweipku.com/), and [Hong Song](https://econ.fudan.edu.cn/info/1028/14229.htm)).
 
-[**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing**](with [Li An](https://sites.google.com/site/lianfinancesite/), and [Yu Qin](http://www.qinyurain.com/)), under review.
+[**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing**] (with [Li An](https://sites.google.com/site/lianfinancesite/), and [Yu Qin](http://www.qinyurain.com/)), under review.
 
 
