@@ -8,6 +8,7 @@ sidebar_sort_order: 2
 
 ### Selected Publications 
 
+
 **The hidden cost of prenatal heat stress exposure: Evidence on subjective well-being in China** (with Jiaowei Gong, [Xiaoyu Li](https://www.soc.tsinghua.edu.cn/info/1179/1343.htm) and [Yang Zhang](http://ssps.ruc.edu.cn/jszy/zy/zy_grjj/f30b6c80f4d14453919b2a7ba1fbc034.htm)), forthcoming at *Economic Development and Cultural Change*.
 
 [**One-Child Policy, Marriage Distortion, and Welfare Loss**](/papers/OCP.pdf) (with [Wei Huang](https://huangweipku.com/) and [Yi Zhou](http://www.yizhoudemog.net/research.html)), forthcoming at *Review of Economics and Statistics*.
@@ -34,6 +35,6 @@ sidebar_sort_order: 2
  
 **Pension Reforms, Income Shocks, and Consumption Dynamics: Evidence from Urban China** (with [Mi Luo](https://sites.google.com/view/mi-luo), [Wei Huang](https://huangweipku.com/), and [Hong Song](https://econ.fudan.edu.cn/info/1028/14229.htm)).
 
-[**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479523) (with [Li An](https://sites.google.com/site/lianfinancesite/), and [Yu Qin](http://www.qinyurain.com/)), under review.
+**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing** (with [Li An], and [Yu Qin]), under review.
 
 
