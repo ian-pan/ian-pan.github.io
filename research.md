@@ -21,22 +21,6 @@ sidebar_sort_order: 2
 
 
 
-### Working Papers
-#### Human Capital Production Function
-
-**Public Health, Human Capital, and Economic Growth: The Lasting Effects of Disease Control in China** (with [Fan He](https://ggxy.jxufe.edu.cn/news-show-6108.html), [Wei Huang](https://huangweipku.com/), and Jiao Wang), revision requested at *Review of Economics and Statistics*.
-
-
-#### Economic Choice Function
-
-
-**Monetary Restraint and Excess Sensitivity of Consumption** (with [Ying Fan](https://sites.google.com/view/yingfan/home)), revision requested.
-
- 
-**Pension Reforms, Income Shocks, and Consumption Dynamics: Evidence from Urban China** (with [Mi Luo](https://sites.google.com/view/mi-luo), [Wei Huang](https://huangweipku.com/), and [Hong Song](https://econ.fudan.edu.cn/info/1028/14229.htm)).
-
-
-**Extrapolative Beliefs and Financial Decisions: Causal Evidence from Renewable Energy Financing** (with [Li An], and [Yu Qin]), under review.
 
 
 

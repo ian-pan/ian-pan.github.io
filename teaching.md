@@ -9,13 +9,15 @@ sidebar_sort_order: 3
 ## Renmin University of China 
 ### Undergraduate Level
 
-Systems Thinking and Academic Writing, Spring 2025.
+Official Document Writing, Spring 2026.
 
-Statistics *(in English)*, Spring 2025.*(Business School)*
+Systems Thinking and Academic Writing, Spring/Fall 2025.
+
+Statistics *(in English)*, Spring 2025/ Spring 2026.*(Business School)*
 
 Academic Writing *(in English)*, Spring 2024.*(Business School)*
 
-Econometrics B. *(School of Finance, Spring 2024/ Spring 2025; School of Economics, Fall 2024)*
+Econometrics B. *(School of Finance, Spring 2024/ Spring 2025/ Spring 2026; School of Economics, Fall 2024)*
 
 Econometrics A, Fall 2023. *(School of Economics)*
 
